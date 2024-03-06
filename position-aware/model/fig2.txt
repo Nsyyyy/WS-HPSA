@@ -1,0 +1,5 @@
+Fig. 2. Our proposed end-to-end framework. Our architecture consists of a hierarchical ranking, a position-scale awareness inference and a
+heterogeneous cross-scale correlation learning. we accomplish resilient detection of small-scale anomalous targets by collaborative training
+under three goals : (1) clustering normal targets to capture their typical patterns; (2) employing hierarchical ranking to identify the most
+likely anomalous targets within snippets; and (3) learning heterogeneous cross-scale relationships to establish context correlations at both
+target level (static) and snippet level (dynamic).

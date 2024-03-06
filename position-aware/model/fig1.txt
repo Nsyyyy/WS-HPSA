@@ -1,0 +1,9 @@
+Fig. 1. (a) Intra-bag similarities and frame-level entanglement: Nor-
+mal snippet 1 achieves a high anomaly score and thus is mistakenly
+identified as an anomaly because of the similarity between abnormal
+and normal snippets 2. Abnormal snippet 3 with a low anomaly score
+is misclassified as normal due to the entanglement of normal and
+abnormal targets, where the scale of normal targets is significantly
+larger than abnormal targets. (b) Anomalies looming and receding:
+Anomalous targets may either approach or move away from the
+camera, resulting in scale variations of these targets.

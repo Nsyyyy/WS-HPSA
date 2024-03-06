@@ -1,0 +1,1 @@
+The performance of our method on challenging cases. The dark blue line indicates the anomaly score predicted by our method, while the orange line indicates the anomaly score predicted by the comparison method \cite{50}. The red area indicates the ground truth of video anomalies.
